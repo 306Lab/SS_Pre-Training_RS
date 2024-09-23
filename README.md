@@ -4,7 +4,7 @@ Collect the latest developments of SSL and its applications in the field of remo
 
   ## Sentinel-2 based
   + (NeurIPS'2022)[SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery](https://arxiv.org/abs/2207.08051)[:octocat:](https://github.com/sustainlab-group/SatMAE) Yezhen Cong, Samar Khanna
-  + (TGRS'2023)[CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding](https://github.com/user-attachments/assets/7bbd4202-3d4b-4ff4-babc-4a0fff22c152)
+  + (TGRS'2023)[CMID: A Unified Self-Supervised Learning Framework for Remote Sensing Image Understanding](https://ieeexplore.ieee.org/document/10105625)[:octocat:](https://github.com/user-attachments/assets/7bbd4202-3d4b-4ff4-babc-4a0fff22c152)
 
   ## RGB/Multi-Spectral based
   + (ICCV'2023)[Scale-MAE: A Scale-Aware Masked Autoencoder for Multiscale Geospatial Representation Learning](https://arxiv.org/abs/2212.14532)[:octocat:](https://github.com/bair-climate-initiative/scale-mae?tab=readme-ov-file) Colorado J. Reed, Ritwik Gupta
