@@ -14,4 +14,6 @@ Collect the latest developments of SSL and its applications in the field of remo
 
 # Paper WithOUT Code🔥
   + (CVPR'2024)[A2-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder](https://arxiv.org/abs/2406.08079) Lixian Zhang, Yi Zhao
+  + (CVPR'2024)[S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.pdf) Xuyang Li, Danfeng Hong
+
 
