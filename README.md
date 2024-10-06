@@ -13,5 +13,5 @@ Collect the latest developments of SSL and its applications in the field of remo
   + (ECCV'2024)[Masked Angle-Aware Autoencoder for Remote Sensing Images](https://arxiv.org/abs/2408.01946)[:octocat:](https://github.com/benesakitam/MA3E) Zhihao Li, Biao Hou
 
 # Paper WithOUT Code🔥
-  + (CVPR'2024)[A2-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder]([https://arxiv.org/abs/2408.01946](https://arxiv.org/abs/2406.08079)) Lixian Zhang, Yi Zhao
+  + (CVPR'2024)[A2-MAE: A spatial-temporal-spectral unified remote sensing pre-training method based on anchor-aware masked autoencoder](https://arxiv.org/abs/2406.08079) Lixian Zhang, Yi Zhao
 
